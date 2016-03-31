@@ -4,8 +4,7 @@ contact: Tamás Szaniszló
 email:  embo2016bp@ttk.elte.hu
 description: > # this means to ignore newlines until "baseurl:"
   Program and material for the EMBO Practical Course on computational analysis of protein-protein interactions: Sequences, networks and diseases", Budapest, Hungary, 30th May - 4th June 2016 
-#baseurl: "/trainingMaterial/" # the subpath of your site, e.g. /blog/
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "/trainingMaterial/" # the subpath of your site, e.g. /blog/
 #url: "https://aidanbudd.github.io" # the base hostname & protocol for your site
 
 # Build settings
