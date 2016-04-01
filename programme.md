@@ -73,7 +73,7 @@ DAY 4 - Thursday 02 June 2016
 | 11.00–12.30 | Protein families and domains and annotation transfer (II) | Marco Punta    |                        |
 | 12.30–13.30 | *Lunch*                                                   |                |                        |
 | 13.30–15.00 | Protein feature prediction and homology modelling         | Miguel Andrade |                        |
-|             | Parallel EMBL meeting 13.00-15.45                         |                |                        |
+|  13.00-15.45 | *Parallel*: EMBL meeting                                    |                |                        |
 | 15.00–16.00 | Working with own data                                     |                |                        |
 | 17.00–      | *Excursion*                                               |                |                        |
 
@@ -86,12 +86,13 @@ DAY 5 - Friday 03 June 2016
 | 10.30–11.00 | *Coffee break*                                         |                             |                        |
 | 11.00–12.30 | Intrinsically disordered proteins                      | Zsuzsa Dosztanyi            |                        |
 | 12.30–13.30 | *Lunch*                                                |                             |                        |
-| 13.30–15.00 | Linear Motif Biology (I)                               | Holger Dinkel & Toby Gibson |                        |
+| 13.30–15.00 | [Linear Motif Biology (I)](trainingMaterial/holgerDinkel/linear_motifs)                               | Holger Dinkel & Toby Gibson |                        |
 | 15.00–15.30 | *Coffee break*                                         |                             |                        |
-| 15.30–17.00 | Linear Motif Biology (II)                              | Holger Dinkel & Toby Gibson |                        |
+| 15.30–17.00 | [Linear Motif Biology (II)](trainingMaterial/holgerDinkel/linear_motifs)                              | Holger Dinkel & Toby Gibson |                        |
 | 17.00–17.30 | *Coffee break*                                         |                             |                        |
 | 17.30–19.00 | Working with own data or                               |                             |                        |
-|             | Automated access of online tools using REST interfaces | Holger Dinkel & Toby Gibson |                        |
+|             | [Automated access of online tools using REST interfaces](trainingMaterial/holgerDinkel/REST_services/)| Holger Dinkel & Toby Gibson |                        |
+
 
 DAY 6 - Saturday 04 June 2016
 --------------------------------
@@ -108,3 +109,16 @@ DAY 6 - Saturday 04 June 2016
 | 17.00–      | Closing                                               |                                                   |                        |
 
 ---
+
+
+aidanBudd
+allegraVia
+holgerDinkel
+larsJuhlJensen
+marcoPunta
+miguelAndrade
+nadezhdaDoncheva
+scooterMorris
+tamasKorcsmaros
+tobyGibson
+zsuzsannaDosztanyi
