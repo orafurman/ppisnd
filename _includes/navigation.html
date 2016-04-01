@@ -6,31 +6,9 @@
       {% for node in pages %}
         {% if node.navigation %}
 
-          <li><a href='{{node.url}}'>{{node.title}}</a></li>
+        <li><a href='{{ site.baseurl }}/{{ node.url }}'>{{node.title}}</a></li>
         {% endif %}
       {% endfor %}
     </ul>
-
-
-{% comment %}
-  <ul>
-    {% for nav in site.data.navigation %}
-      {% if nav.subcategories != null %}
-  <li>
-    <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.title }} &#x25BC;</a>
-    <ul>
-      {% for subcategory in nav.subcategories %}
-        <li><a href="{{ site.baseurl }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
-      {% endfor %}
-    </ul>
-  {% elsif nav.title == page.title %}
-    <li class="active"><a href="{{ nav.url }}">{{ nav.title }}</a></li>
-  {% else %} 
-  <li>
-    <a href="{{ site.baseurl }}{{ nav.href }}">{{ nav.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-{% endcomment %}
 
 </nav> 
