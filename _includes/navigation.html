@@ -5,7 +5,6 @@
     {% assign pages = site.pages | sort:"navigation"  %}
       {% for node in pages %}
         {% if node.navigation %}
-
         <li><a href='{{ site.baseurl }}{{ node.url }}'>{{node.title}}</a></li>
         {% endif %}
       {% endfor %}
