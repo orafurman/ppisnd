@@ -1,28 +1,12 @@
 <!-- see http://www.chrisanthropic.com/blog/2014/using-_data-to-build-jekyll-navigation/ -->
 <nav class="animenu">   
 
-    {% assign url_parts = page.url | split: '/' %}
-    {% assign url_parts_size = url_parts | size %}
-    {% assign rm = url_parts | last %}
-    {% assign base_url = page.url | replace: rm %}
-
     <ul>
     {% assign pages = site.pages | sort:"navigation"  %}
       {% for node in pages %}
-        {% if node.url contains base_url and node.navigation %}
-          {% assign node_url_parts = node.url | split: '/' %}
-          {% assign node_url_parts_size = node_url_parts | size %}
-          {% assign filename = node_url_parts | last %}
+        {% if node.navigation %}
 
-          <!--          baseurl:{{ baseurl }},
-          base_url:{{ base_url }},
-          rm:{{ rm }},
-          weight: {{node.weight}}
-          url_parts:{{ url_parts }},
-          base_url:{{ base_url }},
-          base_url_size:{{ base_url_size }}<br> -->
-
-          <li><a href='{{base_url}}/{{node.url}}'>{{node.title}}</a></li>
+          <li><a href='{{node.url}}'>{{node.title}}</a></li>
         {% endif %}
       {% endfor %}
     </ul>
