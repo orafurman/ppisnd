@@ -74,7 +74,7 @@ DAY 4 - Thursday 02 June 2016
 | 13.30–15.00 | Protein feature prediction and homology modelling         | Miguel Andrade  |                      |
 |  13.00-15.45 | *Parallel*: EMBL meeting                                    |                |                        |
 | 15.00–15.30 | *Coffee break*                                     |                |                        |
-| 15.30-16.45 | oOrking with own data | |
+| 15.30-16.45 | Working with own data | |
 | 17.00–      | *Excursion*                                               |                |                        |
 
 DAY 5 - Friday 03 June 2016
