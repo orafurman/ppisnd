@@ -40,42 +40,41 @@ DAY 2 - Tuesday 31 May 2016
 | 10.30–11.00 | *Coffee break*                            |                                 |                        |
 | 11.00–12.30 | Network visualization with Cytoscape (II) | Scooter Morris & Nadya Doncheva |                        |
 | 12.30–13.30 | *Lunch*                                   |                                 |                        |
-| 13.30–15.30 | Chimera protein structure (I)             | Scooter Morris                  |                        |
+| 13.30–15.30 | Multiple sequence alignments and Jalview             | Toby Gibson and Holger Dinkel                  |                        |
 | 15.30–16.00 | *Coffee break*                            |                                 |                        |
-| 16.00–17.00 | Plenary talk                              | Ora                             |                        |
+| 16.00–17.00 | Plenary talk                              | Toby Gibson                            |                        |
 | 17.00–17.30 | *Coffee break*                            |                                 |                        |
 | 17.30–19.00 | Working with your own data                |                                 |                        |
-| 19.00–      | Unseminar                                 | Aidan Budd & Holger Dinkel      |                        |
+| 19.00–      | Unseminar                                 | Aidan Budd and Holger Dinkel      |                        |
 
 DAY 3 - Wednesday 01 June 2016
 --------------------------------
 
 | Time        | Activity                                  | Responsible       | Location               |
 | :---------- | :---------------------------------------- | :-------------    | :--------------------- |
-| 09.00–10.30 | Structure and interfaces of PPIs          | Allegra Via       |                        |
+| 09.00–10.30 | Protein families and domains and annotation transfer (I)          | Marco Punta       |                        |
 | 10.30–11.00 | *Coffee break*                            |                   |                        |
-| 11.00–12.30 | Peptide and protein docking               |                   |                        |
+| 11.00–12.30 | Protein families and domains and annotation transfer (II)               |     Marco Punta              |                        |
 | 12.30–13.30 | *Lunch*                                   |                   |                        |
-| 13.30–15.30 | Working with own data or                  |                   |                        |
-|             | Peptide and protein docking II            |                   |                        |
+| 13.30–15.30 | Protein stucture visualisation and analysis with Chimera (I)                 |   Scooter Morris                |                        |
 | 15.30–16.00 | *Coffee break*                            |                   |                        |
-| 16.00–17.00 | Plenary: TBA                              | Toby Gibson       |                        |
+| 16.00–17.00 | Plenary: TBA                              | Ora Schueler-Furman        |                        |
 | 17.00–17.30 | *Coffee break*                            |                   |                        |
-| 17.30–19.00 | MSA and Jalview                           | Holger-Aidan-Toby |                        |
+| 17.30–19.00 | Protein stucture visualisation and analysis with Chimera (II)                          | Scooter Morris |                        |
 
 DAY 4 - Thursday 02 June 2016
 --------------------------------
 
 | Time        | Activity                                                  | Responsible    | Location               |
 | :---------- | :----------------------------------------                 | :------------- | :--------------------- |
-| 09.00–10.30 | Protein families and domains and annotation transfer (I)  | Marco Punta    |                        |
+| 09.00–10.30 | Protein feature prediction and homology modelling  | Miguel Andrade    |                        |
 | 10.30–11.00 | *Coffee break*                                            |                |                        |
-| 11.00–12.30 | Protein families and domains and annotation transfer (II) | Marco Punta    |                        |
+| 11.00–12.30 | Peptide and protein docking | ....?    |                        |
 | 12.30–13.30 | *Lunch*                                                   |                |                        |
-| 13.30–15.00 | Protein feature prediction and homology modelling         | Miguel Andrade |                        |
+| 13.30–15.00 | Peptide and protein docking         | ....?   |                      |
 |  13.00-15.45 | *Parallel*: EMBL meeting                                    |                |                        |
 | 15.00–16.00 | Working with own data                                     |                |                        |
-| 17.00–      | *Excursion*                                               |                |                        |
+| 16.15–      | *Excursion*                                               |                |                        |
 
 DAY 5 - Friday 03 June 2016
 --------------------------------
