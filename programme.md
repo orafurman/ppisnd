@@ -7,6 +7,10 @@ navigation: 0
 tr:nth-child(even) {
     background-color: #DDDDDD;
 };
+td:nth-child(1) { width:15%; }
+td:nth-child(2) { width:60%; }
+td:nth-child(3) { width:20%; }
+td:nth-child(4) { width: 5%;}
 </style>
 
 ## Other relevant links
