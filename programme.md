@@ -42,7 +42,7 @@ DAY 2 - Tuesday 31 May 2016
 | :---------- | :---------------------------------------- | :-------------                  | :--------------------- |
 | 09.00–10.30 | [Network visualization with Cytoscape (I)](trainingMaterial/nadezhdaDoncheva)  | Scooter Morris & Nadya Doncheva |                        |
 | 10.30–11.00 | *Coffee break*                            |                                 |                        |
-| 11.00–12.30 | [Network visualization with Cytoscape (II](trainingMaterial/nadezhdaDoncheva) | Scooter Morris & Nadya Doncheva |                        |
+| 11.00–12.30 | [Network visualization with Cytoscape (II)](trainingMaterial/nadezhdaDoncheva) | Scooter Morris & Nadya Doncheva |                        |
 | 12.30–13.30 | *Lunch*                                   |                                 |                        |
 | 13.30–15.30 | [Chimera protein structure (I)](trainingMaterial/scooterMorris)             | Scooter Morris                |                        |
 | 15.30–16.00 | *Coffee break*                            |                                 |                        |
