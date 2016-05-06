@@ -1,7 +1,7 @@
 ---
 title: MSA & Jalview
 author: Toby Gibson
-navigation: 5
+navigation: 34
 ---
 
 [Presentation Slides](./Norwich-EMBO_PPI-Cell-Reg_Toby_9-15.pdf)

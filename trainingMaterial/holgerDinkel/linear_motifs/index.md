@@ -2,6 +2,7 @@
 title: Short Linear Motifs
 layout: page
 author: Holger Dinkel
+navigation: 53
 ---
 
 # Objective: Get familiar with the [Phospho.ELM](http://phospho.elm.eu.org) resource.

@@ -1,8 +1,8 @@
 ---
-title: Structure of PPIs and interfaces of PPIs, predicting globular 3D structure
-
+title: Structure and interfaces of PPIs
+layout: page
+navigation: 31
 author: Allegra Via
-navigation: 7
 ---
 
 Complex prediction:

@@ -32,7 +32,7 @@ DAY 1 - Monday 30 May 2016
 | 15:30–16:00 | *Coffee break*                                                                                                 |                     |                        |
 | 16:00–17:00 | Plenary: Medical informatics                                                                                   | Lars Juhl Jensen    |                        |
 | 17:00–17:30 | *Coffee break*                                                                                                 |                     |                        |
-| 17:30–19:00 | Protein association networks with STRING                                                                       | Lars Juhl Jensen    |                        |
+| 17:30–19:00 | [Protein association networks with STRING](trainingMaterial/larsJuhlJensen)                                                                       | Lars Juhl Jensen    |                        |
 | 19:30-      | Dinner on the boat                                                                                             |                     |                        |
 
 DAY 2 - Tuesday 31 May 2016
@@ -40,42 +40,42 @@ DAY 2 - Tuesday 31 May 2016
 
 | Time        | Activity                                  | Responsible                     | Location               |
 | :---------- | :---------------------------------------- | :-------------                  | :--------------------- |
-| 09.00–10.30 | Network visualization with Cytoscape (I)  | Scooter Morris & Nadya Doncheva |                        |
+| 09.00–10.30 | [Network visualization with Cytoscape (I)](trainingMaterial/nadezhdaDoncheva)  | Scooter Morris & Nadya Doncheva |                        |
 | 10.30–11.00 | *Coffee break*                            |                                 |                        |
-| 11.00–12.30 | Network visualization with Cytoscape (II) | Scooter Morris & Nadya Doncheva |                        |
+| 11.00–12.30 | [Network visualization with Cytoscape (II](trainingMaterial/nadezhdaDoncheva) | Scooter Morris & Nadya Doncheva |                        |
 | 12.30–13.30 | *Lunch*                                   |                                 |                        |
-| 13.30–15.30 | Chimera protein structure (I)             | Scooter Morris                |                        |
+| 13.30–15.30 | [Chimera protein structure (I)](trainingMaterial/scooterMorris)             | Scooter Morris                |                        |
 | 15.30–16.00 | *Coffee break*                            |                                 |                        |
 | 16.00–17.00 | Plenary talk                              | Ora Schueler-Furman                      |                        |
 | 17.00–17.30 | *Coffee break*                            |                                 |                        |
 | 17.30–19.00 | Working with your own data                |                                 |                        |
-| 19.00–      | Unseminar                                 | Aidan Budd and Holger Dinkel      |                        |
+| 19.00–      | [Unseminar](trainingMaterial/aidanBudd/unseminar)                                 | Aidan Budd and Holger Dinkel      |                        |
 
 DAY 3 - Wednesday 01 June 2016
 --------------------------------
 
 | Time        | Activity                                  | Responsible       | Location               |
 | :---------- | :---------------------------------------- | :-------------    | :--------------------- |
-| 09.00–10.30 | Structure and interfaces of PPIs          | Allegra Via       |                        |
+| 09.00–10.30 | [Structure and interfaces of PPIs](trainingMaterial/allegraVia/structure_and_interfaces)          | Allegra Via       |                        |
 | 10.30–11.00 | *Coffee break*                            |                   |                        |
-| 11.00–12.30 | Peptide and protein docking (I)               |     Ora Schueler-Furman             |                        |
+| 11.00–12.30 | [Peptide and protein docking (I)](trainingMaterial/oraSchuelerFurman)               |     Ora Schueler-Furman             |                        |
 | 12.30–13.30 | *Lunch*                                   |                   |                        |
-| 13.30–15.30 | Peptide and protein docking (II)                 |   Ora Schueler-Furman                |                        |
+| 13.30–15.30 | [Peptide and protein docking (II)](trainingMaterial/oraSchuelerFurman)                 |   Ora Schueler-Furman                |                        |
 | 15.30–16.00 | *Coffee break*                            |                   |                        |
 | 16.00–17.00 | Plenary: TBA                              | Toby Gibson        |                        |
 | 17.00–17.30 | *Coffee break*                            |                   |                        |
-| 17.30–19.00 | Multiple sequence alignments and Jalview                          | Toby Gibson and Holger Dinkel |                        |
+| 17.30–19.00 | [Multiple sequence alignments and Jalview](trainingMaterial/tobyGibson/MSA_Jalview)                          | Toby Gibson and Holger Dinkel |                        |
 
 DAY 4 - Thursday 02 June 2016
 --------------------------------
 
 | Time        | Activity                                                  | Responsible    | Location               |
 | :---------- | :----------------------------------------                 | :------------- | :--------------------- |
-| 09.00–10.30 |  Protein families and domains and annotation transfer (I)  | Marco Punta    |                        |
+| 09.00–10.30 | [Protein families and domains and annotation transfer (I)](trainingMaterial/marcoPunta)  | Marco Punta    |                        |
 | 10.30–11.00 | *Coffee break*                                            |                |                        |
-| 11.00–12.30 |  Protein families and domains and annotation transfer (II) | Marco Punta   |                        |
+| 11.00–12.30 | [Protein families and domains and annotation transfer (II)](trainingMaterial/marcoPunta) | Marco Punta   |                        |
 | 12.30–13.30 | *Lunch*                                                   |                |                        |
-| 13.30–15.00 | Protein feature prediction and homology modelling         | Miguel Andrade  |                      |
+| 13.30–15.00 | [Protein feature prediction and homology modelling](trainingMaterial/miguelAndrade/homology.md)         | Miguel Andrade  |                      |
 |  13.00-15.45 | *Parallel*: EMBL meeting                                    |                |                        |
 | 15.00–15.30 | *Coffee break*                                     |                |                        |
 | 15.30-16.45 | Working with own data | |
@@ -86,9 +86,9 @@ DAY 5 - Friday 03 June 2016
 
 | Time        | Activity                                               | Responsible                 | Location               |
 | :---------- | :----------------------------------------              | :-------------              | :--------------------- |
-| 09.00–10.30 | Repeats and low complexity regions                     | Miguel Andrade              |                        |
+| 09.00–10.30 | [Repeats and low complexity regions](trainingMaterial/miguelAndrade/repeats)                     | Miguel Andrade              |                        |
 | 10.30–11.00 | *Coffee break*                                         |                             |                        |
-| 11.00–12.30 | Intrinsically disordered proteins                      | Zsuzsa Dosztanyi            |                        |
+| 11.00–12.30 | [Intrinsically disordered proteins](trainingMaterial/zsuzsannaDosztanyi)                      | Zsuzsa Dosztanyi            |                        |
 | 12.30–13.30 | *Lunch*                                                |                             |                        |
 | 13.30–15.00 | [Linear Motif Biology (I)](trainingMaterial/holgerDinkel/linear_motifs)                               | Holger Dinkel & Toby Gibson |                        |
 | 15.00–15.30 | *Coffee break*                                         |                             |                        |
@@ -96,7 +96,7 @@ DAY 5 - Friday 03 June 2016
 | 17.00–17.30 | *Coffee break*                                         |                             |                        |
 | 17.30–19.00 | Working with own data                                |                             |                        |
 | | OR | | 
-|             | [Automated access of online tools using REST interfaces](trainingMaterial/holgerDinkel/REST_services/)| Holger Dinkel & Toby Gibson |                        |
+|             | [Automated access of online tools using REST interfaces](trainingMaterial/holgerDinkel/REST_services/)| Holger Dinkel |                        |
 
 
 DAY 6 - Saturday 04 June 2016
@@ -104,9 +104,9 @@ DAY 6 - Saturday 04 June 2016
 
 | Time        | Activity                                              | Responsible                                       | Location               |
 | :---------- | :----------------------------------------             | :-------------                                    | :--------------------- |
-| 09.00–10.30 | Molecular dynamics to study PPIs                      | Natasha Wood                                      |                        |
+| 09.00–10.30 | [Molecular dynamics to study PPIs](trainingMaterial/natashaWoods)                      | Natasha Wood                                      |                        |
 | 10.30–11.00 | *Coffee break*                                        |                                                   |                        |
-| 11.00–12.30 | Network visualization with Cytoscape combined session | Scooter Morris, Nadya Doncheva & Lars Juhl Jensen |                        |
+| 11.00–12.30 | [Network visualization with Cytoscape combined session](trainingMaterial/scooterMorris) | Scooter Morris, Nadya Doncheva & Lars Juhl Jensen |                        |
 | 12.30–13.30 | *Lunch*                                               |                                                   |                        |
 | 13.30–15.00 | Working with own data                                 |                                                   |                        |
 | 15.00–15.30 | *Coffee break*                                        |                                                   |                        |
@@ -115,15 +115,3 @@ DAY 6 - Saturday 04 June 2016
 
 ---
 
-
-aidanBudd
-allegraVia
-holgerDinkel
-larsJuhlJensen
-marcoPunta
-miguelAndrade
-nadezhdaDoncheva
-scooterMorris
-tamasKorcsmaros
-tobyGibson
-zsuzsannaDosztanyi
